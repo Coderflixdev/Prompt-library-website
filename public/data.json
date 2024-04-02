@@ -1,0 +1,476 @@
+[
+  
+  {
+    "id":1,
+    "title" : "Web Development",
+    "category" : "Web-Development",
+    "img": "./images/icons8-web-development-64.png",
+   "promptdata" : [
+      { "id": 1,
+        "title": "Git Fundamentals",
+        "description": "Explore the fundamentals of version control using Git. Discuss key concepts such as repositories, branches, commits, and merging, emphasizing best practices in collaborative software development."
+      },
+      { "id": 2,
+        "title": "Responsive Web Design",
+        "description": "Explain the principles of responsive web design, detailing techniques for creating web applications that adapt to various screen sizes. Discuss media queries, flexible grids, and other strategies for achieving a seamless user experience across devices."
+      },
+      { "id": 3,
+        "title": "Docker and Containerization",
+        "description": "Delve into the world of containerization with Docker. Describe the benefits of containerized applications, the Dockerfile syntax, and container orchestration tools like Docker Compose and Kubernetes, highlighting their role in modern software development."
+      },
+      { "id": 4,
+        "title": "RESTful API Design",
+        "description": "Discuss the concept of RESTful APIs and their importance in web development. Explore the key principles of REST, explain HTTP methods, and provide examples of designing and consuming RESTful services for building scalable and interoperable systems."
+      },
+      { "id": 5,
+        "title": "Object-Oriented Programming (OOP)",
+        "description": "Elaborate on the principles of object-oriented programming (OOP). Cover key concepts such as encapsulation, inheritance, and polymorphism, and discuss how OOP enhances code organization, reusability, and maintainability in software development."
+      },
+      { "id": 6,
+        "title": "Test-Driven Development (TDD)",
+        "description": "Examine the principles of Test-Driven Development (TDD). Discuss the benefits of writing tests before code implementation, explore testing frameworks like Jest and JUnit, and showcase how TDD contributes to code reliability and maintainability."
+      },
+      { "id": 7,
+        "title": "Kubernetes Orchestration",
+        "description": "Explore the world of container orchestration with Kubernetes. Discuss the architecture, components, and features of Kubernetes, and explain how it facilitates the deployment, scaling, and management of containerized applications in a distributed environment."
+    
+      },
+      { "id": 8,
+        "title": "Continuous Integration and Deployment (CI/CD)",
+        "description": "Delve into the concepts of continuous integration and continuous deployment (CI/CD). Discuss the benefits of automating the software delivery pipeline, explore popular CI/CD tools like Jenkins and GitLab CI, and outline best practices for seamless integration and deployment workflows."
+      },
+      { "id": 9,
+        "title": "Functional Programming Concepts",
+        "description": "Discuss the principles of functional programming and its application in modern software development. Explore concepts such as immutability, pure functions, and higher-order functions, and showcase how functional programming languages contribute to robust and maintainable code."
+      },
+      { "id": 10,
+        "title": "Secure Coding Practices",
+        "description": "Explain the principles of secure coding practices. Discuss common vulnerabilities, such as SQL injection and cross-site scripting, and provide guidance on writing secure code. Explore tools and techniques for code analysis and security testing in the software development lifecycle."
+      }
+
+
+    ]
+  },
+  {
+    "id":2,
+    "title" : "Poetry",
+    "category" : "Poetry",
+    "img": "./images/icons8-poetry-64.png",
+   "promptdata" : [
+    { "id": 1,
+      "title": "Nature's Beauty",
+      "description": "Compose a poem that celebrates the beauty of nature. Capture the essence of landscapes, seasons, and the wonders of the natural world, conveying emotions and sensations through vivid imagery.",
+      "tags": ["nature", "landscape", "beauty"]
+    },
+   
+     
+      { "id": 2,
+        "title": "Love Sonnet",
+        "description": "Craft a sonnet that explores the nuances of love. Delve into the depths of emotions, whether joyful or melancholic, and express the complexities of human connection through poetic language and metaphor.",
+        "tags": ["love", "sonnet", "emotions"]
+      },
+      { "id": 3,
+        "title": "Cityscape Impressions",
+        "description": "Create a poetic depiction of a cityscape. Capture the rhythm and energy of urban life, exploring the bustling streets, city lights, and the diverse experiences of its inhabitants.",
+        "tags": ["cityscape", "urban life", "impressions"]
+      },
+      { "id": 4,
+        "title": "Elegy for Solitude",
+        "description": "Write an elegy that reflects on the theme of solitude. Explore the beauty and challenges of being alone, contemplating moments of introspection and self-discovery.",
+        "tags": ["elegy", "solitude", "introspection"]
+      },
+      { "id": 5,
+        "title": "Social Justice Anthem",
+        "description": "Compose a powerful poem that addresses social justice issues. Use poetic language to convey a message of equality, activism, and the pursuit of justice for marginalized communities.",
+        "tags": ["social justice", "activism", "equality"],
+        "category": "Poetry"
+      },
+      { "id": 6,
+        "title": "Dreamscapes and Fantasia",
+        "description": "Unleash your imagination in a poem that explores dreamscapes and fantastical realms. Create vivid imagery, delve into the surreal, and let the boundaries of reality blur in your poetic expression.",
+        "tags": ["dreams", "fantasy", "imagination"],
+        "category": "Poetry"
+      },
+      { "id": 7,
+        "title": "Haiku Harmony",
+        "description": "Craft a series of haiku poems that capture fleeting moments and evoke a sense of harmony with nature. Follow the traditional 5-7-5 syllable structure and create a meditative and concise poetic experience.",
+        "tags": ["haiku", "nature", "harmony"],
+        "category": "Poetry"
+      },
+      { "id": 8,
+        "title": "Time's Passage",
+        "description": "Reflect on the theme of time and its passage in a contemplative poem. Explore the fleeting nature of moments, memories, and the cyclical rhythms inherent in the journey of life.",
+        "tags": ["time", "reflection", "memories"],
+        "category": "Poetry"
+      },
+      { "id": 9,
+        "title": "Whispers of the Moon",
+        "description": "Compose a poem inspired by the moon. Delve into the mystical and romantic associations with the moon, exploring its phases, reflections, and the emotions it stirs in the night sky.",
+        "tags": ["moon", "night", "romance"]
+      },
+      { "id": 10,
+        "title": "Journey of Self-Discovery",
+        "description": "Write a poetic narrative that chronicles the journey of self-discovery. Explore personal growth, challenges, and moments of realization in a lyrical expression of the ongoing quest for understanding oneself.",
+        "tags": ["self-discovery", "growth", "journey"]
+      }
+
+
+    ]
+  },
+  {
+    "id":3,
+    "title" : "Doctor",
+    "category" : "Doctor",
+    "img": "./images/icons8-doctor-48.png",
+   "promptdata" : [
+    { "id": 1,
+          "title": "Patient Care Excellence",
+          "description": "Compose a prompt that emphasizes the importance of patient-centered care. Encourage reflections on effective communication, empathy, and fostering trust to enhance the overall healthcare experience.",
+          "tags": ["patient care", "communication", "empathy"]
+        },
+        { "id": 2,
+          "title": "Medical Breakthroughs",
+          "description": "Explore recent medical breakthroughs in a prompt, focusing on innovative treatments, technologies, or research findings. Encourage discussions on advancements that have the potential to revolutionize healthcare.",
+          "tags": ["medical", "innovation", "research"]
+        },
+        { "id": 3,
+          "title": "Mental Health Awareness",
+          "description": "Craft a prompt addressing the importance of mental health awareness. Encourage discussions on reducing stigma, promoting mental well-being, and exploring effective strategies for supporting patients with mental health challenges.",
+          "tags": ["mental health", "awareness", "stigma"]
+        },
+        { "id": 4,
+          "title": "Telemedicine Revolution",
+          "description": "Write a prompt about the role of telemedicine in modern healthcare. Encourage discussions on the benefits, challenges, and ethical considerations of virtual healthcare delivery and remote patient monitoring.",
+          "tags": ["telemedicine", "virtual healthcare", "remote monitoring"]
+        },
+        { "id": 5,
+          "title": "Global Health Initiatives",
+          "description": "Compose a prompt discussing global health initiatives. Encourage conversations on addressing healthcare disparities, promoting access to medical resources, and collaborating on a global scale for better health outcomes.",
+          "tags": ["global health", "health disparities", "medical access"]
+        },
+        { "id": 6,
+          "title": "Physician Well-being",
+          "description": "Craft a prompt centered around the well-being of healthcare professionals. Encourage discussions on burnout prevention, mental health support, and fostering a positive work environment for physicians.",
+          "tags": ["physician well-being", "burnout prevention", "mental health support"]
+        },
+        { "id": 7,
+          "title": "Patient Education Initiatives",
+          "description": "Write a prompt about the importance of patient education. Encourage discussions on empowering patients through informative resources, clear communication, and strategies for promoting health literacy.",
+          "tags": ["patient education", "health literacy", "communication"]
+        },
+        { "id": 8,
+          "title": "Public Health Challenges",
+          "description": "Compose a prompt addressing current public health challenges. Encourage discussions on infectious diseases, vaccination efforts, and strategies for community health promotion and disease prevention.",
+          "tags": ["public health", "disease prevention", "community health"]
+        },
+        { "id": 9,
+          "title": "Ethical Dilemmas in Healthcare",
+          "description": "Craft a prompt exploring ethical dilemmas faced by healthcare professionals. Encourage discussions on informed consent, end-of-life care decisions, and navigating complex ethical situations in medical practice.",
+          "tags": ["ethical dilemmas", "informed consent", "end-of-life care"]
+        },
+        { "id": 10,
+          "title": "Future Trends in Medicine",
+          "description": "Write a prompt discussing future trends in medicine. Encourage reflections on emerging technologies, healthcare delivery models, and potential advancements that could shape the future of healthcare.",
+          "tags": ["future trends", "medical advancements", "healthcare innovation"]
+        }
+    
+
+    ]
+  },
+  {
+    "id":4,
+    "title" : "Financial Analyst",
+    "category" : "Financial-Analyst",
+    "img": "./images/icons8-slice-48.png",
+   "promptdata" : [
+    { "id": 1,
+      "title": "Financial Statement Analysis",
+      "description": "Craft a prompt focusing on the analysis of financial statements. Encourage discussions on key ratios, trends, and insights derived from balance sheets, income statements, and cash flow statements.",
+      "tags": ["financial statement analysis", "ratios", "trends"]
+    },
+    { "id": 2,
+      "title": "Market Trends and Investment Strategies",
+      "description": "Compose a prompt exploring current market trends and investment strategies. Encourage discussions on analyzing market conditions, identifying opportunities, and developing effective investment strategies for various financial instruments.",
+      "tags": ["market trends", "investment strategies", "financial instruments"]
+    },
+    { "id": 3,
+      "title": "Risk Management Practices",
+      "description": "Write a prompt about effective risk management practices. Encourage discussions on identifying, assessing, and mitigating financial risks, considering both internal and external factors impacting business operations.",
+      "tags": ["risk management", "financial risks", "mitigation"]
+    },
+    { "id": 4,
+      "title": "Financial Modeling Excellence",
+      "description": "Craft a prompt centered around financial modeling. Encourage discussions on building comprehensive financial models, forecasting techniques, and incorporating scenario analysis to support strategic decision-making.",
+      "tags": ["financial modeling", "forecasting", "scenario analysis"]
+    },
+    { "id": 5,
+      "title": "Corporate Valuation Strategies",
+      "description": "Compose a prompt discussing corporate valuation strategies. Encourage discussions on various valuation methods, such as discounted cash flow (DCF) analysis and comparable company analysis (CCA), to determine a company's worth.",
+      "tags": ["corporate valuation", "DCF analysis", "CCA"]
+    },
+    { "id": 6,
+      "title": "Financial Planning for Individuals",
+      "description": "Write a prompt on financial planning for individuals. Encourage discussions on budgeting, retirement planning, and investment allocation strategies to help individuals achieve their financial goals.",
+      "tags": ["financial planning", "budgeting", "retirement planning"]
+    },
+    { "id": 7,
+      "title": "Economic Indicators and Analysis",
+      "description": "Craft a prompt exploring economic indicators and their impact on financial analysis. Encourage discussions on interpreting economic promptdata, understanding macroeconomic trends, and their implications for business decisions.",
+      "tags": ["economic indicators", "macroeconomic trends", "financial impact"]
+    },
+    { "id": 8,
+      "title": "Financial Reporting Compliance",
+      "description": "Compose a prompt addressing financial reporting compliance. Encourage discussions on adhering to accounting standards, regulatory requirements, and ethical considerations in financial reporting practices.",
+      "tags": ["financial reporting", "compliance", "accounting standards"]
+    },
+    { "id": 9,
+      "title": "Derivative Instruments and Strategies",
+      "description": "Write a prompt about derivative instruments and their strategic use. Encourage discussions on understanding options, futures, and other derivatives, as well as implementing hedging and risk management strategies.",
+      "tags": ["derivative instruments", "options", "hedging"]
+    },
+    { "id": 10,
+      "title": "Financial Technology (FinTech) Innovations",
+      "description": "Craft a prompt exploring FinTech innovations in finance. Encourage discussions on technological advancements, such as blockchain, artificial intelligence, and digital currencies, and their transformative impact on financial services.",
+      "tags": ["FinTech", "innovations", "blockchain"]
+    }  
+
+    ]
+  },
+  {
+    "id":5,
+    "title" : "Web Development",
+    "category" : "Web-Development",
+    "img": "./images/icons8-web-development-64.png",
+   "promptdata" : [
+      { "id": 1,
+        "title": "Git Fundamentals",
+        "description": "Explore the fundamentals of version control using Git. Discuss key concepts such as repositories, branches, commits, and merging, emphasizing best practices in collaborative software development."
+      },
+      { "id": 2,
+        "title": "Responsive Web Design",
+        "description": "Explain the principles of responsive web design, detailing techniques for creating web applications that adapt to various screen sizes. Discuss media queries, flexible grids, and other strategies for achieving a seamless user experience across devices."
+      },
+      { "id": 3,
+        "title": "Docker and Containerization",
+        "description": "Delve into the world of containerization with Docker. Describe the benefits of containerized applications, the Dockerfile syntax, and container orchestration tools like Docker Compose and Kubernetes, highlighting their role in modern software development."
+      },
+      { "id": 4,
+        "title": "RESTful API Design",
+        "description": "Discuss the concept of RESTful APIs and their importance in web development. Explore the key principles of REST, explain HTTP methods, and provide examples of designing and consuming RESTful services for building scalable and interoperable systems."
+      },
+      { "id": 5,
+        "title": "Object-Oriented Programming (OOP)",
+        "description": "Elaborate on the principles of object-oriented programming (OOP). Cover key concepts such as encapsulation, inheritance, and polymorphism, and discuss how OOP enhances code organization, reusability, and maintainability in software development."
+      },
+      { "id": 6,
+        "title": "Test-Driven Development (TDD)",
+        "description": "Examine the principles of Test-Driven Development (TDD). Discuss the benefits of writing tests before code implementation, explore testing frameworks like Jest and JUnit, and showcase how TDD contributes to code reliability and maintainability."
+      },
+      { "id": 7,
+        "title": "Kubernetes Orchestration",
+        "description": "Explore the world of container orchestration with Kubernetes. Discuss the architecture, components, and features of Kubernetes, and explain how it facilitates the deployment, scaling, and management of containerized applications in a distributed environment."
+    
+      },
+      { "id": 8,
+        "title": "Continuous Integration and Deployment (CI/CD)",
+        "description": "Delve into the concepts of continuous integration and continuous deployment (CI/CD). Discuss the benefits of automating the software delivery pipeline, explore popular CI/CD tools like Jenkins and GitLab CI, and outline best practices for seamless integration and deployment workflows."
+      },
+      { "id": 9,
+        "title": "Functional Programming Concepts",
+        "description": "Discuss the principles of functional programming and its application in modern software development. Explore concepts such as immutability, pure functions, and higher-order functions, and showcase how functional programming languages contribute to robust and maintainable code."
+      },
+      { "id": 10,
+        "title": "Secure Coding Practices",
+        "description": "Explain the principles of secure coding practices. Discuss common vulnerabilities, such as SQL injection and cross-site scripting, and provide guidance on writing secure code. Explore tools and techniques for code analysis and security testing in the software development lifecycle."
+      }
+
+
+    ]
+  },
+  {
+    "id":6,
+    "title" : "Poetry",
+    "category" : "Poetry",
+    "img": "./images/icons8-poetry-64.png",
+   "promptdata" : [
+    { "id": 1,
+      "title": "Nature's Beauty",
+      "description": "Compose a poem that celebrates the beauty of nature. Capture the essence of landscapes, seasons, and the wonders of the natural world, conveying emotions and sensations through vivid imagery.",
+      "tags": ["nature", "landscape", "beauty"]
+    },
+   
+     
+      { "id": 2,
+        "title": "Love Sonnet",
+        "description": "Craft a sonnet that explores the nuances of love. Delve into the depths of emotions, whether joyful or melancholic, and express the complexities of human connection through poetic language and metaphor.",
+        "tags": ["love", "sonnet", "emotions"]
+      },
+      { "id": 3,
+        "title": "Cityscape Impressions",
+        "description": "Create a poetic depiction of a cityscape. Capture the rhythm and energy of urban life, exploring the bustling streets, city lights, and the diverse experiences of its inhabitants.",
+        "tags": ["cityscape", "urban life", "impressions"]
+      },
+      { "id": 4,
+        "title": "Elegy for Solitude",
+        "description": "Write an elegy that reflects on the theme of solitude. Explore the beauty and challenges of being alone, contemplating moments of introspection and self-discovery.",
+        "tags": ["elegy", "solitude", "introspection"]
+      },
+      { "id": 5,
+        "title": "Social Justice Anthem",
+        "description": "Compose a powerful poem that addresses social justice issues. Use poetic language to convey a message of equality, activism, and the pursuit of justice for marginalized communities.",
+        "tags": ["social justice", "activism", "equality"],
+        "category": "Poetry"
+      },
+      { "id": 6,
+        "title": "Dreamscapes and Fantasia",
+        "description": "Unleash your imagination in a poem that explores dreamscapes and fantastical realms. Create vivid imagery, delve into the surreal, and let the boundaries of reality blur in your poetic expression.",
+        "tags": ["dreams", "fantasy", "imagination"],
+        "category": "Poetry"
+      },
+      { "id": 7,
+        "title": "Haiku Harmony",
+        "description": "Craft a series of haiku poems that capture fleeting moments and evoke a sense of harmony with nature. Follow the traditional 5-7-5 syllable structure and create a meditative and concise poetic experience.",
+        "tags": ["haiku", "nature", "harmony"],
+        "category": "Poetry"
+      },
+      { "id": 8,
+        "title": "Time's Passage",
+        "description": "Reflect on the theme of time and its passage in a contemplative poem. Explore the fleeting nature of moments, memories, and the cyclical rhythms inherent in the journey of life.",
+        "tags": ["time", "reflection", "memories"],
+        "category": "Poetry"
+      },
+      { "id": 9,
+        "title": "Whispers of the Moon",
+        "description": "Compose a poem inspired by the moon. Delve into the mystical and romantic associations with the moon, exploring its phases, reflections, and the emotions it stirs in the night sky.",
+        "tags": ["moon", "night", "romance"]
+      },
+      { "id": 10,
+        "title": "Journey of Self-Discovery",
+        "description": "Write a poetic narrative that chronicles the journey of self-discovery. Explore personal growth, challenges, and moments of realization in a lyrical expression of the ongoing quest for understanding oneself.",
+        "tags": ["self-discovery", "growth", "journey"]
+      }
+
+
+    ]
+  },
+  {
+    "id":7,
+    "title" : "Doctor",
+    "category" : "Doctor",
+    "img": "./images/icons8-doctor-48.png",
+   "promptdata" : [
+    { "id": 1,
+          "title": "Patient Care Excellence",
+          "description": "Compose a prompt that emphasizes the importance of patient-centered care. Encourage reflections on effective communication, empathy, and fostering trust to enhance the overall healthcare experience.",
+          "tags": ["patient care", "communication", "empathy"]
+        },
+        { "id": 2,
+          "title": "Medical Breakthroughs",
+          "description": "Explore recent medical breakthroughs in a prompt, focusing on innovative treatments, technologies, or research findings. Encourage discussions on advancements that have the potential to revolutionize healthcare.",
+          "tags": ["medical breakthroughs", "innovation", "research"]
+        },
+        { "id": 3,
+          "title": "Mental Health Awareness",
+          "description": "Craft a prompt addressing the importance of mental health awareness. Encourage discussions on reducing stigma, promoting mental well-being, and exploring effective strategies for supporting patients with mental health challenges.",
+          "tags": ["mental health", "awareness", "stigma"]
+        },
+        { "id": 4,
+          "title": "Telemedicine Revolution",
+          "description": "Write a prompt about the role of telemedicine in modern healthcare. Encourage discussions on the benefits, challenges, and ethical considerations of virtual healthcare delivery and remote patient monitoring.",
+          "tags": ["telemedicine", "virtual healthcare", "remote monitoring"]
+        },
+        { "id": 5,
+          "title": "Global Health Initiatives",
+          "description": "Compose a prompt discussing global health initiatives. Encourage conversations on addressing healthcare disparities, promoting access to medical resources, and collaborating on a global scale for better health outcomes.",
+          "tags": ["global health", "health disparities", "medical access"]
+        },
+        { "id": 6,
+          "title": "Physician Well-being",
+          "description": "Craft a prompt centered around the well-being of healthcare professionals. Encourage discussions on burnout prevention, mental health support, and fostering a positive work environment for physicians.",
+          "tags": ["physician well-being", "burnout prevention", "mental health support"]
+        },
+        { "id": 7,
+          "title": "Patient Education Initiatives",
+          "description": "Write a prompt about the importance of patient education. Encourage discussions on empowering patients through informative resources, clear communication, and strategies for promoting health literacy.",
+          "tags": ["patient education", "health literacy", "communication"]
+        },
+        { "id": 8,
+          "title": "Public Health Challenges",
+          "description": "Compose a prompt addressing current public health challenges. Encourage discussions on infectious diseases, vaccination efforts, and strategies for community health promotion and disease prevention.",
+          "tags": ["public health", "disease prevention", "community health"]
+        },
+        { "id": 9,
+          "title": "Ethical Dilemmas in Healthcare",
+          "description": "Craft a prompt exploring ethical dilemmas faced by healthcare professionals. Encourage discussions on informed consent, end-of-life care decisions, and navigating complex ethical situations in medical practice.",
+          "tags": ["ethical dilemmas", "informed consent", "end-of-life care"]
+        },
+        { "id": 10,
+          "title": "Future Trends in Medicine",
+          "description": "Write a prompt discussing future trends in medicine. Encourage reflections on emerging technologies, healthcare delivery models, and potential advancements that could shape the future of healthcare.",
+          "tags": ["future trends", "medical advancements", "healthcare innovation"]
+        }
+    
+
+    ]
+  },
+  {
+    "id":8,
+    "title" : "Financial Analyst",
+    "category" : "Financial-Analyst",
+    "img": "./images/icons8-slice-48.png",
+   "promptdata" : [
+    { "id": 1,
+      "title": "Financial Statement Analysis",
+      "description": "Craft a prompt focusing on the analysis of financial statements. Encourage discussions on key ratios, trends, and insights derived from balance sheets, income statements, and cash flow statements.",
+      "tags": ["financial statement analysis", "ratios", "trends"]
+    },
+    { "id": 2,
+      "title": "Market Trends and Investment Strategies",
+      "description": "Compose a prompt exploring current market trends and investment strategies. Encourage discussions on analyzing market conditions, identifying opportunities, and developing effective investment strategies for various financial instruments.",
+      "tags": ["market trends", "investment strategies", "financial instruments"]
+    },
+    { "id": 3,
+      "title": "Risk Management Practices",
+      "description": "Write a prompt about effective risk management practices. Encourage discussions on identifying, assessing, and mitigating financial risks, considering both internal and external factors impacting business operations.",
+      "tags": ["risk management", "financial risks", "mitigation"]
+    },
+    { "id": 4,
+      "title": "Financial Modeling Excellence",
+      "description": "Craft a prompt centered around financial modeling. Encourage discussions on building comprehensive financial models, forecasting techniques, and incorporating scenario analysis to support strategic decision-making.",
+      "tags": ["financial modeling", "forecasting", "scenario analysis"]
+    },
+    { "id": 5,
+      "title": "Corporate Valuation Strategies",
+      "description": "Compose a prompt discussing corporate valuation strategies. Encourage discussions on various valuation methods, such as discounted cash flow (DCF) analysis and comparable company analysis (CCA), to determine a company's worth.",
+      "tags": ["corporate valuation", "DCF analysis", "CCA"]
+    },
+    { "id": 6,
+      "title": "Financial Planning for Individuals",
+      "description": "Write a prompt on financial planning for individuals. Encourage discussions on budgeting, retirement planning, and investment allocation strategies to help individuals achieve their financial goals.",
+      "tags": ["financial planning", "budgeting", "retirement planning"]
+    },
+    { "id": 7,
+      "title": "Economic Indicators and Analysis",
+      "description": "Craft a prompt exploring economic indicators and their impact on financial analysis. Encourage discussions on interpreting economic promptdata, understanding macroeconomic trends, and their implications for business decisions.",
+      "tags": ["economic indicators", "macroeconomic trends", "financial impact"]
+    },
+    { "id": 8,
+      "title": "Financial Reporting Compliance",
+      "description": "Compose a prompt addressing financial reporting compliance. Encourage discussions on adhering to accounting standards, regulatory requirements, and ethical considerations in financial reporting practices.",
+      "tags": ["financial reporting", "compliance", "accounting standards"]
+    },
+    { "id": 9,
+      "title": "Derivative Instruments and Strategies",
+      "description": "Write a prompt about derivative instruments and their strategic use. Encourage discussions on understanding options, futures, and other derivatives, as well as implementing hedging and risk management strategies.",
+      "tags": ["derivative instruments", "options", "hedging"]
+    },
+    { "id": 10,
+      "title": "Financial Technology (FinTech) Innovations",
+      "description": "Craft a prompt exploring FinTech innovations in finance. Encourage discussions on technological advancements, such as blockchain, artificial intelligence, and digital currencies, and their transformative impact on financial services.",
+      "tags": ["FinTech", "innovations", "blockchain"]
+    }  
+
+    ]
+  }
+  
+]
